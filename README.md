@@ -16,7 +16,7 @@ In the figure above, we can see the overall results of the prototype that has be
 
 In the picture above, we can see the results of the entire prototype that has been built, in the condition of a gas leak detection. The test was carried out by simulating a gas leak using gas from a lighter, which resulted in the activation of the buzzer, LED lights on, sending alert notifications on the web, chat notifications on WhatsApp, and the display on the I2C LCD shows the status of "Gas Bocor" along with a high gas concentration number.
 
-### Prototype and Components of the Gas Leak System
+### Website and Whatsapp Bot Notifications
 
 ![Result3](WebWhatsapp.png)
 
