@@ -4,6 +4,8 @@
 
 Liquefied Petroleum Gas (LPG) has become an important fuel in daily life, especially for cooking. However, the use of LPG gas carries the risk of leaks that can lead to dangerous fires and explosions. This study aims to develop a prototype gas leakage detection sensor based on the MQ-2 sensor to enhance the safety of LPG gas usage. The research method used is the prototype method, which involves four main stages: data collection, rapid planning, prototype design, and prototype testing. The results show that the prototype can effectively detect LPG gas leaks through the MQ-2 sensor and provide early warnings through an LCD display, buzzer sound, and notifications to the Web and WhatsApp. The conclusion of this research is that the MQ-2 sensor-based LPG gas leakage detection prototype can be an effective solution to prevent potential accidents due to gas leaks, increase awareness of safety in LPG gas usage, and reduce the risk of material losses and casualties.
 
+This research has been published. You can access the publication [here](https://doi.org/10.36342/nrweym73).
+
 ### Prototype and Components of the System When Gas is Normalized
 
 ![Result1](NormalGas.jpeg)
